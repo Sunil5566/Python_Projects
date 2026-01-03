@@ -1,0 +1,17 @@
+EmpID,Name,Email,Age,Department,City,Experience,Attendance,Performance,Salary,Promotion
+101,Ram,ram@gmail.com,23,IT,Kathmandu,1,60,2,18000,No
+102,Sita,sita@gmail.com,27,HR,Pokhara,4,80,4,30000,Yes
+103,Hari,hari@gmail.com,,Finance,Butwal,3,75,3,26000,No
+104,Gita,gita@gmail.com,29,IT,,5,90,5,40000,Yes
+105,Aman,aman@gmail.com,31,Marketing,Kathmandu,7,95,5,55000,Yes
+106,Nita,,26,HR,Pokhara,2,65,2,22000,No
+107,Raju,raju@gmail.com,28,IT,Lalitpur,,85,4,35000,Yes
+108,Mina,mina@gmail.com,24,Finance,Kathmandu,1,55,1,16000,No
+109,Kiran,kiran@gmail.com,35,Marketing,Butwal,10,92,5,65000,Yes
+110,Pooja,pooja@gmail.com,22,IT,Kathmandu,0,50,1,15000,No
+111,Deepak,deepak@gmail.com,30,HR,,6,88,4,42000,Yes
+112,Suman,suman@gmail.com,26,Finance,Pokhara,3,70,3,28000,No
+113,Bikash,bikash@gmail.com,,Marketing,Lalitpur,4,78,3,32000,Yes
+114,Anita,anita@gmail.com,29,IT,Kathmandu,5,85,4,38000,Yes
+115,Rohit,rohit@gmail.com,24,HR,Butwal,1,60,2,20000,No
+116,Neha,neha@gmail.com,33,Finance,Kathmandu,8,90,5,50000,Yes
